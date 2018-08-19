@@ -133,6 +133,6 @@ int main()
     root = insertt(root,50);
     //preOrder(root);
 
-    levelOrde r(root);
+    levelOrder(root);
     return 0;
 }
